@@ -59,6 +59,7 @@ with DAG(
         )
     )
 
+
     # Task 5: Dbt report Task Group
     report = DbtTaskGroup(
         group_id='report',
