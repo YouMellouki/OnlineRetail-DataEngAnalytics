@@ -5,7 +5,7 @@ Online Retail Data Analytics-Engineer Project
 Technologies used:
 
 -  Terraform
--  GCP : Cloud Storage/BigQuery/Looker
+-  GCP: Cloud Storage/BigQuery/Looker
 -  DBT
--  Airflow/Astro framwork
+-  Airflow/Astro framework
 
